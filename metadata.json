@@ -1,0 +1,6 @@
+{
+  "name": "MenuCraft - Digital Restaurant Menu & QR Ordering",
+  "description": "Mobile-first digital menu SaaS for restaurants. Create dynamic menus, generate table QR codes, and receive orders seamlessly without requiring customer app downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
